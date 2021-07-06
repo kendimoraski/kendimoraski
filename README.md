@@ -45,7 +45,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [More SpeechSynthesis for Indigenous Languages](https://kendimoraski.medium.com/more-speechsynthesis-for-indigenous-languages-c18278790b06?source=rss-5917d282a151------2)
 <!-- BLOG-POST-LIST:END -->
 
