@@ -68,7 +68,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
+  <img align="left" alt="kendimoraski's GitHub Stats" src="github-readme-stats-lake-five.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
 </details>
 
