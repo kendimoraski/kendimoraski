@@ -1,7 +1,7 @@
 ### :eye: It's me, Kendall [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=kendimoraski.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kendimoraski.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/qwaemor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qwaemor)
 
 ## I'm a Web Developer, Interpreter/Translator and Linguist!!
 
@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [More SpeechSynthesis for Indigenous Languages](https://kendimoraski.medium.com/more-speechsynthesis-for-indigenous-languages-c18278790b06?source=rss-5917d282a151------2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -67,7 +68,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true" />
+  <img align="left" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
 </details>
 
