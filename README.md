@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on a [Framework Evaluator] project!
 - 🌱 I’m currently learning studying Data Structures & Algorithms :gun:
 - 👯 I’m looking for open-source side projects and study buddies :nerd_face: :nerd_face:
-- 🥅 2021 Goals: Find that perfect first opportunity as a software engineer smiling_face_with_three_hearts:
+- 🥅 2021 Goals: Find that perfect first opportunity as a software engineer :smiling_face_with_three_hearts:
 - ⚡ Fun fact: I love to weightlift, dance 'official' choreographies, and learn Indigenous languages!
 
 ### Spotify Playing 🎧
@@ -67,7 +67,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true" />
+  <img align="left" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app
+/api?username=kendimoraski&show_icons=true&hide_border=true" />
 
 </details>
 
