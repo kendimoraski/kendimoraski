@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-three-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/monochrangel)
+[<img src="https://spotify-three-rouge.vercel.app/api/spotify" alt="monochrangel Spotify Playing" width="350" />](https://open.spotify.com/user/monochrangel)
 
 ### Connect with me:
 
