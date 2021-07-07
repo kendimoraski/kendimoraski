@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem-sandy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/monocrangel)
+[![Spotify](novatorem-sandy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/monochrangel)
 
 ### Connect with me:
 
