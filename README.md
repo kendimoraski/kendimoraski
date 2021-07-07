@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-sandy-ten.vercel.app/api/spotify-playing" alt="monochrangel Spotify Playing" width="350" />](https://open.spotify.com/user/monochrangel)
+[<img src="https://novatorem-sandy-ten.vercel.app/api/spotify-playing" alt="monochrangel Spotify Playing" width="350" />](https://open.spotify.com/user/monochrangel)
 
 ### Connect with me:
 
@@ -52,16 +52,15 @@
 <img align="left" alt="Phaser" width="26px" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-
 <br />
 <br />
-
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [More SpeechSynthesis for Indigenous Languages](https://kendimoraski.medium.com/more-speechsynthesis-for-indigenous-languages-c18278790b06?source=rss-5917d282a151------2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -71,6 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#266](https://github.com/the-bat-signal/rooted/issues/266) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
 <!--END_SECTION:activity-->
 
