@@ -70,6 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#266](https://github.com/the-bat-signal/rooted/issues/266) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
 <!--END_SECTION:activity-->
 
 </details>
