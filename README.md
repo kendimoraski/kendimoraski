@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love to weightlift, dance 'official' choreographies, and learn Indigenous languages!
 
 ### Spotify Playing 🎧
-
 [<img src="https://novatorem-sandy-ten.vercel.app/api/spotify-playing" alt="monochrangel Spotify Playing" width="350" />](https://open.spotify.com/user/monochrangel)
 
 ### Connect with me:
@@ -51,9 +50,10 @@
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Phaser" width="26px" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+ 
+<br />
+<br />
 
-<br />
-<br />
 
 ---
 
