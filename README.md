@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=kendimoraski.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kendimoraski.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qwaemor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qwaemor)
 
-## I'm a Developer, Interpreter/Translator and Linguist!!
+## I'm a Developer, Interpreter/Translator and Linguist!
 
 - 🔭 I'm currently working on a Framework Evaluator project! 🖼️
 - 🌱 I’m currently studying Data Structures & Algorithms 🔫
