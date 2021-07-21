@@ -5,10 +5,10 @@
 
 ## I'm a Developer, Interpreter/Translator and Linguist!
 
-- 🔭 I'm currently working on a Framework Evaluator project! 🖼️
-- 🌱 I’m currently studying Data Structures & Algorithms 🔫
-- 👯 I’m looking for open-source side projects and study buddies :nerd_face: :nerd_face:
-- 🥅 2021 Goals: Find that perfect first opportunity as a software engineer :smiling_face_with_three_hearts:
+- 🔭 Currently building a Framework Evaluator project! 🖼️
+- 🌱 Studying System Design as well as Data Structures & Algorithms 🔫
+- 👯 Always open to open-source side projects and study buddies :nerd_face: :nerd_face:
+- 🥅 2021 Goals: Learn TypeScript and find that perfect first opportunity as a software engineer :smiling_face_with_three_hearts:
 - ⚡ Fun fact: I love to weightlift, dance 'official' choreographies, and learn Indigenous languages! 🌏 🌍 🌎
 
 <!-- ### Spotify Playing 🎧
