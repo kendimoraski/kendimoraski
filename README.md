@@ -11,9 +11,9 @@
 - 🥅 2021 Goals: Learn TypeScript and find that perfect first opportunity as a software engineer :smiling_face_with_three_hearts:
 - ⚡ Fun fact: I love to weightlift, dance 'official' choreographies, and learn Indigenous languages! 🌏 🌍 🌎
 
-### Now Playing 🎧
+<!-- ### Now Playing 🎧 -->
 
-[![Spotify](https://spotify-kendimoraski.vercel.app/api/spotify)](https://open.spotify.com/user/monochrangel)
+<!-- [![Spotify](https://spotify-kendimoraski.vercel.app/api/spotify)](https://open.spotify.com/user/monochrangel) -->
 
 ### Connect with me:
 
