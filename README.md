@@ -13,7 +13,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://vercel.com/kendimoraski/spotify/2UfpPyvTqTCNKcogXiymRgS87BBE/api/spotify)](https://open.spotify.com/user/monochrangel)
+[![Spotify](https://spotify-three-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/monochrangel)
 
 ### Connect with me:
 
