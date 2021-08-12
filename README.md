@@ -52,6 +52,8 @@
 <img align="left" alt="Mapbox GL JS" width="26px" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
+<a href="https://app.testdome.com/cert/ff46e2f899cb4bbd819630a4061edae1" class="testdome-certificate-stamp gold"><span class="testdome-certificate-name">Kendall Moraski</span><span class="testdome-certificate-test-name">React </span><span class="testdome-certificate-card-logo">TestDome<br />Certificate</span></a><script>var stylesheet = "https://app.testdome.com/content/source/stylesheets/embed.css", link = document.createElement("link"); link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+
 <br />
 <br />
 <br />
