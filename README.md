@@ -77,9 +77,9 @@
 1. ❗️ Opened issue [#266](https://github.com/the-bat-signal/rooted/issues/266) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
 <!--END_SECTION:activity-->
 
-</details open>
+</details>
 
-<details>
+<details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
