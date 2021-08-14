@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#266](https://github.com/the-bat-signal/rooted/issues/266) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
+1. 🎉 Merged PR [#1](https://github.com/kendimoraski/Framework-Evaluator/pull/1) in [kendimoraski/Framework-Evaluator](https://github.com/kendimoraski/Framework-Evaluator)
 <!--END_SECTION:activity-->
 
 </details>
