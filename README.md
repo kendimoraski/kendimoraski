@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#269](https://github.com/the-bat-signal/rooted/pull/269) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
+1. 🗣 Commented on [#266](https://github.com/the-bat-signal/rooted/issues/266) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
 <!--END_SECTION:activity-->
 
 </details>
