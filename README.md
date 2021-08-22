@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/kendimoraski/Framework-Evaluator/pull/1) in [kendimoraski/Framework-Evaluator](https://github.com/kendimoraski/Framework-Evaluator)
+1. 💪 Opened PR [#269](https://github.com/the-bat-signal/rooted/pull/269) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
 <!--END_SECTION:activity-->
 
 </details>
