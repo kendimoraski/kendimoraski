@@ -74,7 +74,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#266](https://github.com/the-bat-signal/rooted/issues/266) in [the-bat-signal/rooted](https://github.com/the-bat-signal/rooted)
+1. 🗣 Commented on [#1460](https://github.com/tailwindlabs/tailwindcss/issues/1460) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
 
 </details>
