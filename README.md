@@ -6,10 +6,9 @@
 ## I'm a Developer, Interpreter/Translator and Linguist!
 
 - 🔭 Currently building a Framework Evaluator project! 🖼️
-- 🌱 Studying System Design as well as Data Structures & Algorithms 🔫
 - 👯 Love connecting with other CSS fanatics and geeking out over aesthetic game design :nerd_face: :nerd_face:
-- 🥅 2021 Goals: Learn TypeScript and find that perfect first opportunity as a software engineer :smiling_face_with_three_hearts:
-- ⚡ Fun fact: I love to weightlift, dance 'official' choreographies, and learn Indigenous languages! 🌏 🌍 🌎
+- 🥅 2021 Goals: Learn TypeScript :smiling_face_with_three_hearts:
+- ⚡ Fun fact: I love to weightlift, dance to Tinashe choreographies, and learn Indigenous languages! 🌏 🌍 🌎
 
 <!-- ### Now Playing 🎧 -->
 
