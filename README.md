@@ -5,7 +5,8 @@
 
 ## I'm a Developer, Interpreter/Translator and Linguist!
 
-- 🔭 Currently building a Framework Evaluator project! 🖼️
+- 🚢 Associate Engineer at Shipt 🖌️
+- 🔭 Currently tweaking a Framework Evaluator project! 🖼️
 - 👯 Love connecting with other CSS fanatics and geeking out over aesthetic game design :nerd_face: :nerd_face:
 - 🥅 2021 Goals: Learn TypeScript :smiling_face_with_three_hearts:
 - ⚡ Fun fact: I love to weightlift, dance to Tinashe choreographies, and learn Indigenous languages! 🌏 🌍 🌎
