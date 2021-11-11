@@ -8,7 +8,7 @@
 - 🚢 Associate Engineer at Shipt 🖌️
 - 🔭 Currently tweaking a Framework Evaluator project! 🖼️
 - 👯 Love connecting with other CSS fanatics and geeking out over aesthetic game design :nerd_face: :nerd_face:
-- 🥅 2021 Goals: Learn TypeScript :smiling_face_with_three_hearts:
+- 🥅 2021 Goals: Learn more styled-components and TypeScript :smiling_face_with_three_hearts:
 - ⚡ Fun fact: I love to weightlift, dance to Tinashe choreographies, and learn Indigenous languages! 🌏 🌍 🌎
 
 <!-- ### Now Playing 🎧 -->
