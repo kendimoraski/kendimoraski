@@ -1,15 +1,14 @@
 ### :eye: It's me, [Kendall Moraski][website] 👋
 
 [![Website](https://img.shields.io/website?label=kendimoraski.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kendimoraski.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/qwaemor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=qwaemor)
 
 ## I'm a Developer, Interpreter/Translator and Linguist!
 
 - 🚢 Associate Engineer at Shipt 🖌️
-<!-- - 🔭 Currently tweaking a Framework Evaluator project! 🖼️ -->
+<!-- - 🔭 Currently building custom VS Code themes, dynamic wallpapers, and exploring CSS mastery! 🖼️ -->
 - 👯 Love connecting with other frontend fanatics and geeking out over aesthetic game design :nerd_face: :nerd_face:
-<!-- - 🥅 2021 Goals: Learn more styled-components and TypeScript :smiling_face_with_three_hearts: -->
-- ⚡ Fun fact: I love to weightlift, dance to Tinashe choreographies, and learn Indigenous languages! 🌏 🌍 🌎
+<!-- - 🥅 2023 Goals: Work on more advanced TypeScript code and learn some Go, React Native & NestJS :smiling_face_with_three_hearts: -->
+- ⚡ Fun fact: I love to weightlift, dance parapara routines, and learn Indigenous languages! 🌏 🌍 🌎
 
 <!-- ### Now Playing 🎧 -->
 
@@ -18,7 +17,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
