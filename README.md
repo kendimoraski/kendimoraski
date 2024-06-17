@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=kendimoraski.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kendimoraski.github.io/)
 
-## I'm a Developer, Interpreter/Translator and Linguist!
+## I'm a Sfotware Engineer, Interpreter/Translator, and Linguist!
 
 - 🚢 Associate Engineer at Shipt 🖌️
 <!-- - 🔭 Currently building custom VS Code themes, dynamic wallpapers, and exploring CSS mastery! 🖼️ -->
