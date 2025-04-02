@@ -59,7 +59,13 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### Certifications:
+
+<img alt="Defensive Coding, APIs, and Security course completion badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/138918928" />
+
+---
+
+### 📕 Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [More SpeechSynthesis for Indigenous Languages](https://kendimoraski.medium.com/more-speechsynthesis-for-indigenous-languages-c18278790b06?source=rss-5917d282a151------2)
@@ -68,7 +74,7 @@
 ---
 
 <details open>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity:</summary>
 
 <!--START_SECTION:activity-->
 
@@ -78,12 +84,12 @@
 </details>
 
 <details open>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats:</summary>
   <img align="center" alt="kendimoraski's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=kendimoraski&show_icons=true&hide_border=true&count_private=true&theme=synthwave" /> 
   <img align="center" alt="kendimoraski's Top Languages" src="https://github-readme-stats-lake-five.vercel.app/api/top-langs/?username=kendimoraski&layout=compact&theme=synthwave" />
   
 </details>
 
 [website]: https://kendimoraski.github.io/
-[twitter]: https://twitter.com/qwaemor
+[bluesky]: https://bluesky.com/qwaemor
 [linkedin]: https://www.linkedin.com/in/kmoraski/
